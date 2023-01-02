@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "44506234f27a3ed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "015e76ce6e0882f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af805bef7b61cd4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complexity (Space-Time) Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dfa79165ca78ea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asymptotic Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8ce77b21982a2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21331ff2ec7862b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b5eac2a753f1a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e93936e1566d8a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a643a5e4e38c4c5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8472a48022ad3226",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d7733086574486c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a952ffb936ee5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68d75982cbcc4d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structures.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3768748d0a0ce88f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Structures.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40fa983fe3336b68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "406e2cd5caa1f6c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Structures.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e8ce77b21982a2d3",
+  "lastOpenFiles": [
+    "O(log(n)).md",
+    "Asymptotic Analysis.md",
+    "Complexity (Space-Time) Analysis.md",
+    "Algo Expert Crash Course.md",
+    "Memory.md",
+    "Space Complexity.md",
+    "Interview.md",
+    "Pasted image 20230101223752.png",
+    "Time Complexity.md",
+    "Data Structures.md"
+  ]
+}

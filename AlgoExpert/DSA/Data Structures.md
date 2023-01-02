@@ -1,0 +1,11 @@
+* Tools that we can use to solve the coding interview problems
+- Data Structures are a collection of data values, relationship among them and functions/operations that can be applied to them.
+- List of Data Structures:
+	- [[Arrays]]
+	- [[Linked Lists]] (Singly-linked, Doubly-linked)
+	- [[Hash Tables]]
+	- [[Stacks]] 
+	- [[Queues]] (Single-ended, Double-ended, Priority, Circular)
+	- [[Strings]]
+	- [[Graphs]]
+	- [[Trees]] (Binary Trees, Binary Search Trees, AVL Trees, Heaps (Min Heap, Max Heap), Treap)
